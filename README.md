@@ -35,7 +35,7 @@
 - What is Jekyll?
 
 ## Applying themes (30 minutes)
-- Syllabus
+- Let's theme the syllabus we created yesterday
 
 ## Licensing (5 minutes)
 
